@@ -1,0 +1,7 @@
+max_locations_per_request: 1000
+access_control_allow_origin: '*'
+datasets:
+- name: eudem25m
+  path: data/eudem/
+  filename_epsg: 3035
+  filename_tile_size: 1000000
