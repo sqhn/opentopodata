@@ -1,4 +1,3 @@
-data
 .git
 **/*.pyc
 **/__pycache__
